@@ -114,15 +114,14 @@ Fun Fact:
 
 ---
 
+
 # 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=Milindu-Weerawarna&theme=tokyonight&hide_border=true"
-      alt="Milindu Weerawarna's GitHub streak"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=Milindu-Weerawarna&amp;theme=tokyonight&amp;hide_border=true&amp;v=2"
+    alt="Milindu Weerawarna GitHub Streak"
+  />
 </p>
 
 ---
