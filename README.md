@@ -5,7 +5,7 @@
 ### 🚀 Computer Science & Engineering Undergraduate | Cybersecurity Enthusiast | AI Developer
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Cybersecurity+%7C+CTF+Player;AI+Agent+Developer;DevOps+%26+Cloud+Enthusiast;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Undergraduate;Cybersecurity+%7C+CTF+Player;AI+Agent+Developer;DevOps+%26+Cloud+Enthusiast;Always+Learning+Something+New" />
 </p>
 
 
